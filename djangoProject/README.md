@@ -1,8 +1,4 @@
 
-#Synopsis
-
-A web application designed on Django 1.9 and Python 2.7 - A Fully functional Matrimonial website.
-
 #Installation
 
 Install the following plugins:
@@ -18,11 +14,5 @@ Install the following plugins:
 5. django-imagekit 3.3 - https://pypi.python.org/pypi/django-imagekit/3.3
 
 6. django-crispy-forms 1.6.0 - https://pypi.python.org/pypi/django-crispy-forms/1.6.0
- 
-#Configurations
-
-Admin Details
-
-Details of Superuser: Username: "nishantisme"  Password: "nitta10101993"
 
 To check all the functionality, register a user and create a profile. ->VIEW ->UPDATE ->DELETE ->SEARCH.
