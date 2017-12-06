@@ -1,2 +1,2 @@
 # Matrimonial-Site
-A matrimonial website designed on Python and Django
+A web application designed on Django and Python. A fully functional Matrimonial website. 
